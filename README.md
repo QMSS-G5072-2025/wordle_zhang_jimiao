@@ -5,7 +5,7 @@ A Python package that implements the Wordle game logic
 ## Installation
 
 ```bash
-$ pip install wordle_jz4007
+$ pip install -i https://test.pypi.org/simple/ wordle_jz4007
 ```
 
 ## Usage
